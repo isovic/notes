@@ -1,6 +1,3 @@
-### notes
-Log of useful commands, tips and tricks.
-
 ## System
 Measure memory and time of a process. Call the binary and corresponding arbuments instead of <command> at the end.  
 Results will be written in ```measure.memtime```.  
